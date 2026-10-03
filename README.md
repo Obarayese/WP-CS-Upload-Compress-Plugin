@@ -1,0 +1,1 @@
+# WP-CS-Upload-Compress-Plugin
